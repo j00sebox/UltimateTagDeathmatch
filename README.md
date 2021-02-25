@@ -12,6 +12,8 @@ The player starts out as "it" and if there is a trigger collision between the pl
 
 The cpu as very basic AI that will try to run away from the player while they are it but chase after them if they are not it.
 
+![Image of Demo](screenshots/screenshot.PNG)
+
 How to run:
 
 The binary is assembled using DASM which supports 6507 and 6502 instructions. The assembled binary is already include in this repo as ultimatetagdeathmatch.bin.
