@@ -1,6 +1,6 @@
 # UltimateTagDeathmatch
 
-Description:
+## Description:
 
 This is a simple game of tag between a player and a cpu player for the Atari 2600.
 
@@ -14,7 +14,7 @@ The cpu as very basic AI that will try to run away from the player while they ar
 
 ![Image of Demo](screenshots/screenshot.PNG)
 
-How to run:
+## How to run:
 
 The binary is assembled using DASM which supports 6507 and 6502 instructions. The assembled binary is already include in this repo as ultimatetagdeathmatch.bin.
 
